@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinusoidalMotionCalculator", "SinusoidalMotionCalculator\SinusoidalMotionCalculator.csproj", "{BD345DF3-B436-4A77-A8BF-21D66F3C15BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD345DF3-B436-4A77-A8BF-21D66F3C15BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD345DF3-B436-4A77-A8BF-21D66F3C15BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD345DF3-B436-4A77-A8BF-21D66F3C15BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD345DF3-B436-4A77-A8BF-21D66F3C15BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C1684C6-C095-4B9B-B53F-5197A856BEBE}
+	EndGlobalSection
+EndGlobal

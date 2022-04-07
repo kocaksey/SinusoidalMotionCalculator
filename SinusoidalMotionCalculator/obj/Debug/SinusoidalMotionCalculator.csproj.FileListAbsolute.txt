@@ -1,0 +1,10 @@
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\obj\Debug\SinusoidalMotionCalculator.csproj.AssemblyReference.cache
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\obj\Debug\SinusoidalMotionCalculator.Form1.resources
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\obj\Debug\SinusoidalMotionCalculator.Properties.Resources.resources
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\obj\Debug\SinusoidalMotionCalculator.csproj.GenerateResource.cache
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\obj\Debug\SinusoidalMotionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\bin\Debug\SinusoidalMotionCalculator.exe.config
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\bin\Debug\SinusoidalMotionCalculator.exe
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\bin\Debug\SinusoidalMotionCalculator.pdb
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\obj\Debug\SinusoidalMotionCalculator.exe
+C:\Users\skocak\source\repos\SinusoidalMotionCalculator\SinusoidalMotionCalculator\obj\Debug\SinusoidalMotionCalculator.pdb
