@@ -153,7 +153,7 @@ namespace SinusoidalMotionCalculator
                     d = Math.Round(d, 3);
                     lbD.Text = Convert.ToString(d);
                 }
-
+                //asdas22
                 if (cmbFF.SelectedItem.ToString() == "Frequency, Velocity")
                 {
                     d = vel / (freq * Math.PI);
